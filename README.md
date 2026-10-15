@@ -28,5 +28,5 @@ Mở file `listing.html` bằng trình duyệt để xem giao diện.
 
 ## 6. Link dự án
 - Canva: [https://www.canva.com/design/DAHXD2jg9HU/7Q4trg1HDT246iMdGVyUXw/edit]
-- GitHub: []
+- GitHub: [https://github.com/minhd2577-droi/Bai-tap-giua-ki]
 - Video trình bày: [https://youtu.be/5O-wXDcr-Zk]
