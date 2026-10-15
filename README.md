@@ -27,6 +27,6 @@ Quản lý listing.
 Mở file `listing.html` bằng trình duyệt để xem giao diện.
 
 ## 6. Link dự án
-- Canva: [Dán link Figma tại đây]
-- GitHub: [Dán link GitHub tại đây]
-- Video trình bày: [Dán link video tại đây]
+- Canva: [https://www.canva.com/design/DAHXD2jg9HU/7Q4trg1HDT246iMdGVyUXw/edit]
+- GitHub: []
+- Video trình bày: [https://youtu.be/5O-wXDcr-Zk]
